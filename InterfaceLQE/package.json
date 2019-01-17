@@ -1,0 +1,21 @@
+{
+  "name": "interfacelqe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Alves",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "chart.js": "^2.7.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "net": "^1.0.2",
+    "nodemon": "^1.18.4",
+    "serialport": "^7.0.2",
+    "socket.io": "^2.1.1"
+  }
+}

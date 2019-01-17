@@ -1,0 +1,175 @@
+13-12-2017 10:28:53 || O mote coordenador está conectado via serial
+13-12-2017 10:28:55 || Ler status:
+13-12-2017 10:28:55 || Ler status:
+13-12-2017 10:28:55 || COORDENADOR_OK! 
+13-12-2017 10:28:55 || Ler status:
+13-12-2017 10:29:1 || status_mote:200,100,
+13-12-2017 10:29:1 || FIM! 
+13-12-2017 10:29:11 || Configuração de motes:
+13-12-2017 10:29:12 || COORDENADOR_OK! 
+13-12-2017 10:29:13 || Configura: lambda - 100/ok 
+13-12-2017 10:29:15 || COORDENADOR_OK! 
+13-12-2017 10:29:16 || Configura: modo - 100/ok 
+13-12-2017 10:29:18 || COORDENADOR_OK! 
+13-12-2017 10:29:20 || Configura: destino - 100/ok 
+13-12-2017 10:29:22 || COORDENADOR_OK! 
+13-12-2017 10:29:23 || Configura: distribuicao - 100/ok 
+13-12-2017 10:29:25 || FIM! 
+13-12-2017 10:29:31 || Configuração de motes:
+13-12-2017 10:29:32 || COORDENADOR_OK! 
+13-12-2017 10:29:33 || Configura: lambda - 200/ok 
+13-12-2017 10:29:35 || COORDENADOR_OK! 
+13-12-2017 10:29:45 || Timeout! 
+13-12-2017 10:29:45 || COORDENADOR_OK! 
+13-12-2017 10:29:47 || Configura: destino - 200/nok 
+13-12-2017 10:29:49 || COORDENADOR_OK! 
+13-12-2017 10:29:50 || Configura: distribuicao - 200/ok 
+13-12-2017 10:29:52 || FIM! 
+13-12-2017 10:30:35 || Configuração de motes:
+13-12-2017 10:30:36 || COORDENADOR_OK! 
+13-12-2017 10:30:38 || Configura: lambda - 200/ok 
+13-12-2017 10:30:40 || COORDENADOR_OK! 
+13-12-2017 10:30:41 || Configura: modo - 200/ok 
+13-12-2017 10:30:43 || COORDENADOR_OK! 
+13-12-2017 10:30:44 || Configura: destino - 200/ok 
+13-12-2017 10:30:46 || COORDENADOR_OK! 
+13-12-2017 10:30:48 || Configura: distribuicao - 200/ok 
+13-12-2017 10:30:50 || FIM! 
+13-12-2017 10:30:56 || 
+startados 200,100, 
+13-12-2017 10:31:20 || 200/TotalPacotes/4 
+13-12-2017 10:31:29 || 100/TotalPacotes/4 
+13-12-2017 10:31:54 || startados 200,100, 
+13-12-2017 10:32:14 || 100/TotalPacotes/3 
+13-12-2017 10:32:43 || Timeout! 
+13-12-2017 10:33:44 || O mote coordenador está conectado via serial
+13-12-2017 10:33:45 || Ler status:
+13-12-2017 10:33:45 || COORDENADOR_OK! 
+13-12-2017 10:33:45 || Ler status:
+13-12-2017 10:33:52 || status_mote:200,100,
+13-12-2017 10:33:52 || FIM! 
+13-12-2017 10:34:7 || O mote coordenador está conectado via serial
+13-12-2017 10:35:17 || O mote coordenador está conectado via serial
+13-12-2017 10:35:30 || Ler status:
+13-12-2017 10:35:30 || COORDENADOR_OK! 
+13-12-2017 10:35:30 || Ler status:
+13-12-2017 10:35:37 || status_mote:100,200,
+13-12-2017 10:35:37 || FIM! 
+13-12-2017 10:35:39 || Configuração de motes:
+13-12-2017 10:35:40 || COORDENADOR_OK! 
+13-12-2017 10:35:41 || Configura: lambda - 100/ok 
+13-12-2017 10:35:43 || COORDENADOR_OK! 
+13-12-2017 10:35:45 || Configura: modo - 100/ok 
+13-12-2017 10:35:47 || COORDENADOR_OK! 
+13-12-2017 10:35:48 || Configura: destino - 100/ok 
+13-12-2017 10:35:50 || COORDENADOR_OK! 
+13-12-2017 10:35:52 || Configura: distribuicao - 100/ok 
+13-12-2017 10:35:54 || FIM! 
+13-12-2017 10:35:56 || Configuração de motes:
+13-12-2017 10:35:58 || COORDENADOR_OK! 
+13-12-2017 10:35:59 || Configura: lambda - 200/ok 
+13-12-2017 10:36:1 || COORDENADOR_OK! 
+13-12-2017 10:36:3 || Configura: distribuicao - 200/ok 
+13-12-2017 10:36:5 || FIM! 
+13-12-2017 10:36:25 || Configuração de motes:
+13-12-2017 10:36:27 || COORDENADOR_OK! 
+13-12-2017 10:36:28 || Configura: lambda - 200/ok 
+13-12-2017 10:36:30 || COORDENADOR_OK! 
+13-12-2017 10:36:32 || Configura: modo - 200/ok 
+13-12-2017 10:36:34 || COORDENADOR_OK! 
+13-12-2017 10:36:35 || Configura: destino - 200/ok 
+13-12-2017 10:36:37 || COORDENADOR_OK! 
+13-12-2017 10:36:38 || Configura: distribuicao - 200/ok 
+13-12-2017 10:36:40 || FIM! 
+13-12-2017 10:36:46 || 
+startados 200,100, 
+13-12-2017 10:37:7 || 200/TotalPacotes/3
+
+100/TotalPacotes/3 
+13-12-2017 10:37:23 || startados 100,200, 
+13-12-2017 10:37:39 || 200/TotalPacotes/3
+
+100/TotalPacotes/3 
+13-12-2017 10:37:48 || startados 100,200, 
+13-12-2017 10:38:14 || 200/TotalPacotes/5
+
+100/TotalPacotes/4 
+13-12-2017 10:39:40 || O mote coordenador está conectado via serial
+13-12-2017 10:39:45 || Ler status:
+13-12-2017 10:39:45 || COORDENADOR_OK! 
+13-12-2017 10:39:45 || Ler status:
+13-12-2017 10:39:52 || status_mote:
+13-12-2017 10:39:52 || FIM! 
+13-12-2017 10:40:6 || Configuração de motes:
+13-12-2017 10:40:8 || COORDENADOR_OK! 
+13-12-2017 10:40:9 || Configura: lambda - 100/ok 
+13-12-2017 10:40:11 || COORDENADOR_OK! 
+13-12-2017 10:40:13 || Configura: modo - 100/ok 
+13-12-2017 10:40:15 || COORDENADOR_OK! 
+13-12-2017 10:40:16 || Configura: destino - 100/ok 
+13-12-2017 10:40:18 || COORDENADOR_OK! 
+13-12-2017 10:40:20 || Configura: distribuicao - 100/ok 
+13-12-2017 10:40:22 || FIM! 
+13-12-2017 10:40:29 || Configuração de motes:
+13-12-2017 10:40:30 || COORDENADOR_OK! 
+13-12-2017 10:40:31 || Configura: lambda - 200/ok 
+13-12-2017 10:40:33 || COORDENADOR_OK! 
+13-12-2017 10:40:35 || Configura: modo - 200/ok 
+13-12-2017 10:40:37 || COORDENADOR_OK! 
+13-12-2017 10:40:38 || Configura: destino - 200/ok 
+13-12-2017 10:40:40 || COORDENADOR_OK! 
+13-12-2017 10:40:41 || Configura: distribuicao - 200/ok 
+13-12-2017 10:40:43 || FIM! 
+13-12-2017 10:41:14 || 
+startados 100,200, 
+13-12-2017 10:41:53 || 200/TotalPacotes/6
+
+100/TotalPacotes/6 
+13-12-2017 10:46:47 || O mote coordenador está conectado via serial
+13-12-2017 10:46:55 || Configuração de motes:
+13-12-2017 10:47:27 || COORDENADOR_OK! 
+13-12-2017 10:47:29 || Configura: lambda - 200/ok 
+13-12-2017 10:47:31 || COORDENADOR_OK! 
+13-12-2017 10:47:32 || Configura: tamanho_pacote - 200/ok 
+13-12-2017 10:47:34 || COORDENADOR_OK! 
+13-12-2017 10:47:35 || Configura: destino - 200/ok 
+13-12-2017 10:47:37 || COORDENADOR_OK! 
+13-12-2017 10:47:39 || Configura: distribuicao - 200/ok 
+13-12-2017 10:47:41 || COORDENADOR_OK! 
+13-12-2017 10:47:51 || Timeout! 
+13-12-2017 10:47:51 || FIM! 
+13-12-2017 10:48:14 || Configuração de motes:
+13-12-2017 10:48:15 || COORDENADOR_OK! 
+13-12-2017 10:48:17 || Configura: modo - 100/ok 
+13-12-2017 10:48:19 || FIM! 
+13-12-2017 10:48:48 || O mote coordenador está conectado via serial
+13-12-2017 10:48:51 || Ler status:
+13-12-2017 10:48:51 || COORDENADOR_OK! 
+13-12-2017 10:48:51 || Ler status:
+13-12-2017 10:48:58 || status_mote:
+13-12-2017 10:48:58 || FIM! 
+13-12-2017 10:49:41 || Configuração de motes:
+13-12-2017 10:49:43 || COORDENADOR_OK! 
+13-12-2017 10:49:44 || Configura: modo - 100/ok 
+13-12-2017 10:49:46 || FIM! 
+13-12-2017 10:49:48 || Configuração de motes:
+13-12-2017 10:49:49 || COORDENADOR_OK! 
+13-12-2017 10:49:50 || Configura: modo - 200/ok 
+13-12-2017 10:49:52 || COORDENADOR_OK! 
+13-12-2017 10:49:54 || Configura: lambda - 200/ok 
+13-12-2017 10:49:56 || COORDENADOR_OK! 
+13-12-2017 10:49:57 || Configura: tamanho_pacote - 200/ok 
+13-12-2017 10:49:59 || COORDENADOR_OK! 
+13-12-2017 10:50:0 || Configura: destino - 200/ok 
+13-12-2017 10:50:2 || COORDENADOR_OK! 
+13-12-2017 10:50:4 || Configura: distribuicao - 200/ok 
+13-12-2017 10:50:6 || FIM! 
+13-12-2017 10:50:11 || 
+startados 100,200, 
+13-12-2017 10:50:33 || 200/TotalPacotes/3
+
+100/TotalPacotes/3 
+13-12-2017 10:50:45 || startados 200,100, 
+13-12-2017 10:51:8 || 200/TotalPacotes/4
+
+100/TotalPacotes/4 

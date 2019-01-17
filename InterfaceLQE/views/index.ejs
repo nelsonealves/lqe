@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+		<title> LQE</title>
+</head>
+<body>
+	
+	<div class="tudo">
+		<div class="pagina">
+			<div class="topo">
+				<div class="cabecalho">
+					
+						<div class="menu-esquerda">
+								<ul>
+										<li><a href="#">Inicio</a></li>
+										<li><a href="#">Histórico</a></li>
+								</ul>
+		
+							</div>
+					<div class="logo"><img src="logo.png"></div>
+					<div class="menu-direita">
+						<ul>
+								<li><a href="#">Wiki</a></li>
+								<li><a href="#">Contato</a></li>
+						</ul>
+
+					</div>
+				</div>
+			</div>
+			<div class="corpo">
+				<div class="main">
+					<input class="vermelho" type="button" value="Vermelho">
+					<input class="verde" type="button" value="Verde">
+					<input class="amarelo" type="button" value="Amarelo">
+
+					<div class="medição">
+						<canvas id="mychart" ></canvas>
+						<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script src="/socket.io/socket.io.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+
+
+
+</html>
